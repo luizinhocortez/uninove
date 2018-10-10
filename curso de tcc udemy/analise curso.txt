@@ -1,0 +1,398 @@
+tcc
+	buscar informacoes do curso
+		olhar o manual do trabalho do curso
+		
+		aderencia ao tema, coerencia e atualizacao da bibliografia
+		
+		quais datas?
+		
+		data ante-projeto
+		
+		cronograma
+		
+		tem banca de apresentacao oral ?
+			avaliado por dominio, clareza e recursos usados
+			
+		qual formato ?
+			digital, impressa ou ambas
+			
+		normas de formatacao ?
+			abnt e ou manuais próprios
+			
+		escolha do orientados
+			aprovação do professor
+			
+Estrutura do ante-projeto
+	
+	estrutura basica
+	tema, justificativa, problema, hipotese, objetivos, procedimentos metodologicos de pesquisa
+	
+	tema			-	oque responder
+	justicativa 	-	porque pesquisar sobre o tema
+	objectivos		-	para quê desenvolver a pesquisa
+	procedimentos	-	como atender aos objectivos
+	
+	facilidade de obter o anteprojeto de forma coerente
+	
+	usar o template 
+	
+como usar o template fornecido	
+	
+	preencher a pergunta do seu problema
+	
+	seu objectivo geral
+	
+	objetivos especificos
+		aponta procedimento metodologico especifico para cada objetivo
+			sera possivel dividir em capitolos
+				dividir subcapitulos e numeros de paginas para manter o equilibrio
+					criar o cronograma
+					
+desenvolver a tematica
+	tema amplo deve ser delimitado posteriormente
+		pesquisar bibliografia sobre o assunto
+	Determinar a justificativa para a pesquisa proposta
+	Descrever o contruicao ao mundo que a sua pesquisa trará
+	Convencer ao leitor da importancia de sus pesquisa
+	
+desenvolver o problema e a hipotese
+	o problema de pesquisa deve ser viavel
+	problema deve ser formulado de forma interrogativa, clara e objetiva.
+		boas opcoes, como? de que forma? porque ?
+		
+como desenvolver a hipotese ?
+	hipotese eh a possivel resposta para a pergunta do problema
+	no final da pesquisa ira confirmar ou refutar a sua hipotese
+	
+	não pode supor algo impossivel de ser verificado
+	
+Estabelecer os objetivos
+	geral (1 unico)
+		global e abrangente
+			verbos de ação 
+				exemplos desenvolver, aplicar e contruir pelo significado aumenta o esforço
+				
+	
+	especifico (mais de um)
+		mais simples e objetivo
+	
+como escolher os procedimentos de coleta de dados mais adequados aos objetivos
+	esplica ao leitor como vc vai responder a pergunta levantada no inicio do estudo
+	coerente com os objetivos
+	
+	principais procedimentos
+		pequisa bibliográfica
+			estuda o que ja foi publicado na area
+			exemplos: livros, revistras arqtigos cientificos
+			
+		pesquisa documental
+			exemplos documentos oficiais, cartas, diários, filmes, fotografias, arquivos públicos
+			
+		pesquisa de campo
+			observacao de fatos e fenomenos como ocorrem
+			exemplos por entrevista, observacao ou grupo focal
+			
+		estudo de caso
+			estudo profundo e exaustivo de algo
+				analise e coleta de informacoes sobre aspectos e tecnicas
+				
+		pesquisa ação
+			interesse na resolucao de um problema
+			
+	tecnicas de coleta de dados utilizadas
+		
+		pesquisas
+			entrevistas (pesquisador ou aplicador)
+				roteiro 
+					estruturado
+					semi estruturado 
+					aberto (conversa livre)
+			
+			questionario (mais facil e rapido) e pode conter falta de profundidade, de comprometimento ou respostas incompreensiveis
+				pode ser online ou presencial
+					respostas 
+						descritivas
+						multipla escolha
+					
+			grupo focal
+				entrevista em profundidade
+				
+			observacao
+				roteiro do que será observado (definir claramente o que será observado)
+				
+			roteiros de pesquisa no apendice
+			
+		
+		pesquisas de campo
+		estudos de caso
+		pesquisa ação
+		
+	antes de iniciar a escrita
+	
+		formas de escritas e macetes 
+			usar a mesma forma de escrita para todo o tcc
+			pessoal
+				ex: "percebemos que a matemática" ...
+			impessoal
+				ex: "percebe-se que a matematica" ... 
+				
+			definir o estilo
+				não use gírias
+			tamanho de frases e parágrafos
+				frases de no maximo 4 linhas
+				não muito curtas
+				conecte as frases com sentido
+				intenções esplítitas
+					introduza seus capítulos e relacione-os com os objectivos
+						ex: neste capítulo é desenvolvido o capitulo x. para tanto, ele ....
+					feche o capitulo fazendo reflexoes e introduza os seguintes
+						ex: neste capitulo tratou-se de x assunto. agora o proximo capitulo apresenta ...
+				
+				
+		fontes de consultas mais apropriadas e as que deve sem evitadas
+			não replicar dados incorretos ou falsos
+			fontes confiaveis e respeitadas
+			consulte em livros, teses,  dissertacoes e artigos cientificos
+			procurar em plataformas online como:
+				ex, scielo.org, www.periodicos.capes.gov.br, www.dominiopublico.gov.br e sites das bibliotecas de universidades publicas e privadas
+				contar anexo: D:\temp\tarefas\uninove\curso de tcc udemy\lista-de-plataformas-para-consulta.docx
+				
+			usar citacoes comprovam a genuinidade do seu trabalho
+			
+				
+			
+		
+		tipos de citacoes e rodapes
+			citação direta
+				plavavras do autor tal e qual entre aspas
+				(MOREIRA, 2018, p.16) sobrenome do autor, ano da obra e pagina extraida
+				cuidado, 
+					citação curta 3 linhas no corpo do paragrafo como as outras linhas
+					citação longa, mais de 3 linhas, deve ter recuo a margem esquerda de 4 cm apartir da margem
+			
+			citação indireta
+				chamada de livre, o mesmo sentido do autor
+				(MOREIRA, 2018) sobrenome autor e ano
+					
+			
+			citação da citação
+				vitar
+				ex: no livro de moreira lido em sua pesquisa, moreira cita silva na obra
+				(SILVA APUD MOREIRA, 2018, P.16) silva foi citado por moreira
+		
+		lista de referencias bibliograficas
+			lita de todos autores utilizados no trabalho
+			faça imediatamente ao fazer o tcc, nao deixe para depois
+			contrua apos poucos conforme vai utilizando as obras dos autores
+			
+			cada fonte requer forma diferenciada de referencia
+				exemplos no anexo:D:\temp\tarefas\uninove\curso de tcc udemy\Lista-de-referencias-bibliograficas.docx
+				
+		onde e como salvar o seu tcc
+			salvar na nuvem em versoes diferentes a cada atualizacao
+		
+	dicas sobre as bancas
+		nao usar exageradamente apuds
+			aprofundesse até encontrar a fonte da informação precisa
+		nao citar exaustivamente o mesmo autor, do contrario fragiliza o trabalho
+		não tratar o tcc como resumo de um unico livro
+		qualidade da escrita, conjugação, ortografia, pontuação
+		evite usar linguagem coloquial, nunca utilize girias
+		evite objetivos confusos
+			verifique se os procedimentos metodologicos sao apropriados
+		recorte as intençoes para tornar o tcc factivel se for o caso de um objetivo distante
+		o procedimento metodologico deve ser bem explicado, precisa ser claro para não precisar se questionado
+		considerações finais pobres
+			demonstrar reflexoes profundas sobre o trabalho
+		não entregue lista de referencias incompletas
+		
+	dicas importantíssimas
+		não cometer plágio
+			não dar crédito ao autor
+			dados mensionados sem fonte
+			ilustracoes sem as devidas fontes
+			
+desenvolvendo o tcc
+	o tcc é dividido em 
+		elementos pré-textuais
+			capa
+			folha de rosto
+			resumo
+				convite para o leitor
+				contem: breve tema, importancia, objetivos, metodologia e resultados			
+				limite 250 palavras
+				adicionar palavras chave de 3 a 5 unidades
+					ex: D:\temp\tarefas\uninove\curso de tcc udemy\Exemplo-de-resumo.docx
+				revisar no final do trabalho após obter todo o conteudo e conferir
+			sumario
+				avaliado de forma geral pela banca
+					revisar titulos dos capitulos e sub-capitulos
+			agradecimentos
+			epigrafe
+				citação que posui relação com o trabalho
+			
+		elementos textuais
+			introdução	-	18. Elementos textuais: Introdução
+				tema, justificativa
+				problema
+				hipotese
+				objetivos geral e especificos
+				procedimentos metodologicos
+					compilacao textual do anteprojeto
+				maximo de 3 ou 4 paginas 
+					ex: D:\temp\tarefas\uninove\curso de tcc udemy\Introducao.pdf
+			desenvolvimento	- 19. Elementos textuais: Desenvolvimento
+				parte principal em capitulos organizados conforme os objetivos especificos traçados de forma logica
+				são organizados para a contrucao logica da ideia que esta sendo passada e de forma que o leitor entenda
+				composta por:
+					revisao bibliografia
+						Elementos textuais: Desenvolvimento da Revisão Bibliográfica Seção 5, aula 20
+						capitulos com a revisao da literarura disponivel sobre o assunto do trabalho
+						discutir o tema sobre a visao de diferentes autores
+							não citar um só autor
+						o leitor deve perceber o estado da arte em que o assunto se encontra
+						
+					procedimentos metodologicos
+						Elementos textuais: Desenvolvimento dos Procedimentos Metodológicos Seção 5, aula 21
+						quadro de sintes
+							visao geral sobre a pesquisa
+								ex: D:\temp\tarefas\uninove\curso de tcc udemy\Quadro-sintese-da-pesquisa.docx
+							caracterizacao de procedimentos metodologicos
+								ex:D:\temp\tarefas\uninove\curso de tcc udemy\Exemplos-de-caracterizacao-de-procedimentos-metodologicos.docx
+					resultados
+					analise
+					discussão dos resultados
+						textual
+						imagens (graficos, tabelas, )
+						caso de prototipo
+							fotografe, apresente-o em detalhes
+				
+			
+			considerações finais 
+				Elementos textuais: Considerações finais Seção 5, aula 23
+				recapitular brevemente os seus objetivos, e após, apresentar as conclusões
+				retorne a pergunta do problema e responda se esta correta ou nao
+				pode-se dicutir sobre o proprio processo metodologico refletindo sobre as suas limitações, ou ate possiveis
+				alternativvas sobre a pesquisa
+				
+		
+		Elementos pós-textuais Seção 5, aula 24
+			lista de referencias bibliograficas
+				lista das obras
+					ver exemplo de formatacao da lista, consulte
+					
+			apendices
+				documentos criados por vc
+				fotos e desenhos de autoria do autor do tcc
+				
+			anexos
+				documentos criados por terceiros
+				leis plantas e diretrizes
+				
+			glossario
+		
+		Checklist antes de finalizar o trabalho.Seção 6, aula 25
+			conferencia das referencias, todas as citacoes devem estar corretas
+			revisao de portugues e abnt
+			coerencia entre objetivos e conclusoes
+				ler: resumo, introdução e considerações finais, e veja se há coerencia
+				
+09/10/2018 22:17
+	leitura artigo https://www.infoq.com/br/articles/microservices-intro 
+		Microservices: Decomposição de Aplicações para Implantação e Escalabilidade
+09/10/2018 22:54
+	leitura artigo https://www.infoq.com/br/articles/nivelando-sua-rest-api?utm_source=infoq&utm_medium=related_content_link&utm_campaign=relatedContent_undefined_clk
+
+09/10/2018 23:20
+	leitura do trabalho de thiago pereira sobre metodo de implementação de servicos
+		D:\temp\tarefas\uninove\tcc\pesquisa\thiago-pereira-tcc1.pdf
+			referencias 
+			
+			Internet Technology (TOIT), v. 2, n. 2, p. 115-150, 2002.
+			FOWLER, Martin. The New Methodology. Disponível em: <http://www.martinfowler.com/
+			articles/newMethodology.html#N8B>. Acesso em: 2 mai. 2015.
+				ler o artigo, extrair titulos em grandes linhas
+					traduzir, foco em metodos ageis
+
+			LEWIS, James; FLOWER, Martin. Microservices. Disponível em: <http://martinfowler.com/
+			articles/microservices.html> Acesso em: 3 abr. 2015.
+				ler o artigo, base para falar da arquitetura de microservices
+
+			NEWMAN, Sam. Building Microservices. 1 ed. O'Reilly Media, Inc., 2015.
+				tentar encontrar o livro e ler
+
+				
+			FOWLER, Martin. Patterns of enterprise application architecture. Addison-Wesley
+			Longman Publishing Co., Inc., 2002.
+			
+			
+			GARLAN, David; SHAW, Mary. An introduction to software architecture. 1994.
+			Disponível em: <http://repository.cmu.edu/cgi/viewcontent.cgi?
+			article=1720&context=compsci> Acesso em: 20 abr.2015.
+				ler o artigo para fazer contraponto a arquitetura nova de microservices
+			
+			JEN, Lih-ren; LEE, Yuh-jye. Working Group. IEEE recommended practice for architectural
+			description of software-intensive systems. In: IEEE Architecture. 2000. Disponível em
+			<https://standards.ieee.org/findstds/standard/1471-2000.html> Acesso em: 7 mai. 2015.
+				ler, encher linguica
+
+			MARINESCU, Dan C. Cloud computing: Theory and practice. 1 ed. Waltham: Newnes,
+			2013.
+				procurar 
+				
+			MARTIN, Robert Cecil. Agile software development: principles, patterns, and practices.
+			Prentice Hall PTR, 2003. !
+				aspecto agil
+			
+			MARTIN, Robert Cecil. The Clean Architecture. Disponível em <http://blog.8thlight.com/
+			uncle-bob/2012/08/13/the-clean-architecture.html> Acesso em: 25 mai. 2015.
+				acessar
+			
+			NAMIOT, Dmitry; SNEPS-SNEPPE, Manfred. On M2M Software. International Journal of
+			Open Information Technologies, v. 2, n. 6, p. 29-36, 2014.
+				pesquisar
+			
+			NAMIOT, Dmitry; SNEPS-SNEPPE, Manfred. On Micro-services Architecture.
+			International Journal of Open Information Technologies, v. 2, n. 9, p. 24-27, 2014.
+			!30
+				pesquisar
+			
+			PRESSMAN, Roger S. Engenharia de Software. 6 ed. McGraw-Hill, 2006. !
+			RICHARDSON, Chris. Microservices architecture. Disponível em <http://microservices.io/
+			patterns/microservices.html> Acesso em: 20 mai. 2015. !
+				ler artigo
+			
+			ROBERTS, Wendy E. Skin type classification systems old and new. Dermatologic clinics, v.
+			27, n. 4, p. 529-533, 2009. !
+			
+			SOUSA, Flávio RC; MOREIRA, Leonardo O.; MACHADO, Javam C. Computação em
+			nuvem: Conceitos, tecnologias, aplicações e desafios. II Escola Regional de Computação
+			Ceará, Maranhão e Piauí (ERCEMAPI), p. 150-175, 2009.
+			
+			The twelve-factor app. Disponível em <http://12factor.net> Acesso em: 13 mai. 2015.
+			THONES, Johannes. Microservices. Software, IEEE, v. 32, n. 1, p. 116-116, 2015.
+			VERNON, Vaughn. Implementing domain-driven design. 1 ed. Westford: Addison-Wesley,
+			2013.
+			
+			VIENNOT, Nicolas et al. Synapse: a microservices architecture for heterogeneous-database
+			web applications. In: Proceedings of the Tenth European Conference on Computer
+			Systems. ACM, 2015. p. 21.		
+			
+		
+proposta, criar um servico usando a metodologia hateoas e ao final apresentar as boa praticas em um prototipo de aplicativo hub de apostas em eventos
+	
+		
+			
+			
+			
+
+
+				
+			
+		
+		
+		
+	
+	
+		
+		
