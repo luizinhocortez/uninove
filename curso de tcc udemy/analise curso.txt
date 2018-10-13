@@ -52,7 +52,9 @@ desenvolver a tematica
 	tema amplo deve ser delimitado posteriormente
 		pesquisar bibliografia sobre o assunto
 	Determinar a justificativa para a pesquisa proposta
+		
 	Descrever o contruicao ao mundo que a sua pesquisa trará
+		
 	Convencer ao leitor da importancia de sus pesquisa
 	
 desenvolver o problema e a hipotese
@@ -309,8 +311,7 @@ desenvolvendo o tcc
 			referencias 
 			
 			Internet Technology (TOIT), v. 2, n. 2, p. 115-150, 2002.
-			FOWLER, Martin. The New Methodology. Disponível em: <http://www.martinfowler.com/
-			articles/newMethodology.html#N8B>. Acesso em: 2 mai. 2015.
+			FOWLER, Martin. The New Methodology. Disponível em: <http://www.martinfowler.com/a'rticles/newMethodology.html#N8B>. Acesso em: 10 Jun. 2018.
 				ler o artigo, extrair titulos em grandes linhas
 					traduzir, foco em metodos ageis
 
@@ -382,7 +383,9 @@ desenvolvendo o tcc
 proposta, criar um servico usando a metodologia hateoas e ao final apresentar as boa praticas em um prototipo de aplicativo hub de apostas em eventos
 	
 		
-			
+10/10/2018 17:45
+	traduzir o artigo https://microservices.io/patterns/microservices.html
+	salvar em D:\temp\tarefas\uninove\tcc\pesquisa\microservices.pesquisa.doc
 			
 			
 
