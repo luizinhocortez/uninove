@@ -388,11 +388,54 @@ proposta, criar um servico usando a metodologia hateoas e ao final apresentar as
 	salvar em D:\temp\tarefas\uninove\tcc\pesquisa\microservices.pesquisa.doc
 			
 			
+16/10/2018 00:42 tradução dos resumos dos capitulos
 
+Vimos o que micro-serviços são e a diferença para arquiteturas anteriores. micro-serviços resolvem o problema de permitir mudanças no software de forma recorrente e de maneira a manter os recursos de uma forma conservadora.
+Microserviços englobam muitos principios comuns atraves de vários anos e usa todos juntos de forma unificada em uma arquitetura para desenvolvimento, gestão e desenho de enormes e complexos sistema de informação de forma simplificada.
+
+Este trabalho provocou a discussão de como identificar, abordar e mais importante, como adotar as melhores estrategias para resolver problemas. Identificar problemas é critico para entender micro-serviços e soluções que adotam a arquitetura de micro-serviços. Não existe resposta fácil, mas a mudança de mentalidade que a pesquisa promovel for contornar os problemas e testar a solução mais simples e direta passou a ser lugar comum no desenvolvimento do projeto.  
+
+Constatamos a historia e a emergencia dos micro-serviços. Explicamos os micro-serviços e o contexto cultural e as fundações nos sitemas UNIX. Microserviços são uma mudanças radical na industria e continuará crescendo e evoluindo para resolver problemas. A filosofia não irá mudar, mas os detalhes de implementação com certeza mudarão.
+
+Iniciamos o processo de quebra da aplicação monolítica em uma arquitetura de micro-serviços. Discutimos SOA e discutimos suas diferenças e simularidades. E mostramos porque o advento das plataformas em nuvem permitiu o novo nivel de facilidade na integração de sistemas 
+Vimos tambpem como quebrar as implementações baseado na prioridade dos clientes em pedaços pequenos e,passo-a-passo de forma incremental, evoluir com esse foco na necessidade do cliente.
+
+
+Vimos o cenário caminho do feliz de uma aplicação de comercio eletrônico examinando desde o rascunho, e vimos também que nem sempre foi feito o processo mais eficiente, e que no processo de aprendizagem pode haver varios ciclos e refatoramento e implementação até atingir o objetivo da melhor forma.
+
+Revisamos as caracteristicas do banco de dados e delineamos as tecnologias mais usuários para resolver problemas especificos. Vimos que o compartilhamento do dados de um serviço é um desafio e que é ainda mais penoso no caso de micro-serviços quando implementamos funcionalidades de grande aplicativos monoliticos.
+
+
+Abordamos dependencias, versionamento, segurança e gerenciamento de exceções e logging. Podemos usar dependencias por meio de serviços de registro e padrões de descoberta (discovery patterns), ou proxy reverso ou refatoração de registros quando o sistema cresce em complexidade.
+
+Versionamento foi um tema que se mostrou interessante como forma de encapsulamento e isolamento, Citamos segurança como um topico importante, abordamos os tokes e chaves de API e padrões como JWT ajudam a mantes a performance e baixa carga de processamento.
+Mostramos a necessidade de monitoramento para os micro-serviços em busca de gerencias as excessões, timeouts, e finalmente o monitoramento da saúde do serviço.
+
+Foi observado o processo de escalabidade baseado no cubo de escala (Scale-Cube), a diferença entre os seus eixos usando containers e instancias de serviço para garantir a configuração e publicação de maneira automatizada.
+
+Descrevemos a monolitica em nosso caso de uso e mostramos como ela é centralizada e difícil de mantes, lenta para mudanças de dificil de estender ou escalar. Microserviços são complexos como sistema, mas permite escalar, manter e evoluir de forma mais facil e produtiva.
+
+Discutimos o padrão de design para micro-serviços, como padrões de: registro, descoberta e instanciação, e que micro-serviços herdam muitos dos principios da metodologia Twelve-Factor application methodology.
+
+Como resultado vimos que os servicos somente atingem seus objetivos de longo prazo com uma cultura empresarial e um time alinhado com os principios e a cultura de micro-serviços
 
 				
 			
-		
+referencias
+Fowler, M., & Lewis, J. (2014, March 25). Microservices. Disponível em <http://martinfowler.com/articles/microservices.html> acesso em: 09 out 2018.
+
+(1999). In D. T. Andres Hunt, The Pragmatic Programmer: From Journeyman to Master . The Pragmatic Programmers, LLC. 
+Conway, M. E. (1968). How do Committees Invent? Datamation, 28-31. 
+Einstein, A. (1933). On the Method of Theoretical Physics. Philosophy of Science. 
+
+Martin, R. C. (2009). Getting a SOLID start. Retrieved from https://sites.google.com/site/unclebobconsultingllc/getting-a-solid-start Nygard, M. T. 
+
+(2007). Release It!: Design and Deploy Production-Ready Software. Pragmatic Bookshelf. 
+Raymond, E. S. (2003). The Art of UNIX Programming. Addison-Wesley . 
+Richardson, C. (2014, March 18). Microservice architecture patterns and best practices. Retrieved from Microservices.IO: http://microservices.io/ 
+Wiggins, A. (2012, 1 30). Retrieved from The Twelve Factor App: http://12factor.net/
+
+
 		
 		
 	
